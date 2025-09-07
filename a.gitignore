@@ -1,0 +1,14 @@
+# Node
+node_modules
+build
+dist
+
+# Java
+target
+*.class
+*.jar
+*.war
+*.log
+
+# Environment files
+.env
